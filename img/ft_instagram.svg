@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24">
+  <g id="인스타" transform="translate(-1601 -101)">
+    <g id="사각형_350" data-name="사각형 350" transform="translate(1601 101)" fill="none" stroke="#ede8dc" stroke-width="3">
+      <rect width="25" height="24" rx="6" stroke="none"/>
+      <rect x="1.5" y="1.5" width="22" height="21" rx="4.5" fill="none"/>
+    </g>
+    <g id="타원_36" data-name="타원 36" transform="translate(1607 107)" fill="none" stroke="#ede8dc" stroke-width="3">
+      <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+      <circle cx="6.5" cy="6.5" r="5" fill="none"/>
+    </g>
+    <path id="패스_946" data-name="패스 946" d="M1577.97,105.652a1.5,1.5,0,1,1-1.5-1.5A1.5,1.5,0,0,1,1577.97,105.652Z" transform="translate(43.173 0.769)" fill="#ede8dc"/>
+  </g>
+</svg>
